@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Prashant
+- 👋 Hi, 
 I am Prashant Ganji. I am from Solapur, Maharashtra and currently pursuing my B.Tech from Vishwakarma Institute of Information Technolgy, Pune. I love to explore and learn about new things. </br>
 - 📫 Reach me: https://twitter.com/prashant_ganji_
 <!---
